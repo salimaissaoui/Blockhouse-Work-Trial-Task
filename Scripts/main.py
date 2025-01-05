@@ -11,7 +11,7 @@ from visualization import plot_heatmap, plot_scatter
 def main():
     # -- Parameters --
     API_KEY = "db-UYfWvmmU6YLwgy6FtCqYnfxHKvHvE"  # your Databento key
-    START_TIME = "2024-12-31T00:00:00Z"
+    START_TIME = "2024-12-20T00:00:00Z"
     END_TIME   = "2025-01-03T23:59:59Z"
     SYMBOLS    = ["AAPL", "AMGN", "TSLA", "JPM", "XOM"]
     LEVELS     = 5   # e.g., 00..04
