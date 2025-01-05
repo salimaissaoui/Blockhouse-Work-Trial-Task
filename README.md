@@ -175,8 +175,8 @@ If you have memory limitations, you may retrieve a shorter time window or fewer 
 If you have any questions or issues running the code, feel free to open an issue on this repository or reach out at:
 
 ```
-Your Name
-Your Contact Email
+Salim Aissaoui
+saiss048@uottawa.ca
 ```
 
 Happy Analyzing!
